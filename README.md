@@ -1,7 +1,9 @@
 Este repositorio es para subir el taller 2 de typescript.
 
-1 Para ejecutar el proyect:
+1 Para ejecutar el proyecto:
 
-Realice el git clone
-Haga ek npm install
-ejecute el comando tsc para compilar
+a. Realice el git clone
+
+b. Haga ek npm install
+
+c. ejecute el comando tsc para compilar
